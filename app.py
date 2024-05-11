@@ -1,1 +1,1 @@
-print('Hi, I'm Siddharth Pujari. How are you?')
+print('Hi, I'm Siddharth. How are you?')
